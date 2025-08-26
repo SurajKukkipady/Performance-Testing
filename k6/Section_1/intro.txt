@@ -3,4 +3,5 @@ Performance testing is a way of simulating a senario to check if it reamins cool
 
 2. k6 is a powerful tool for Performance testing
 
-3. 
+3. Throughput - Shows number of requests hnadled over a period of time
+
