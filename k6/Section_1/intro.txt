@@ -1,4 +1,6 @@
 1. What is Performance Testing?
 Performance testing is a way of simulating a senario to check if it reamins cool.
 
-2. 
+2. k6 is a powerful tool for Performance testing
+
+3. 
