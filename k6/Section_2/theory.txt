@@ -7,3 +7,6 @@ Load Test - Same load over a period of time
 Stress Test - Push to breaking point
 Spike Trest -  Seddenly increase and decrese the load.
 
+Smoke Test 
+Checks the basic functionality of the app.
+If is passes the smoke test, then it can go to more complex tests.
