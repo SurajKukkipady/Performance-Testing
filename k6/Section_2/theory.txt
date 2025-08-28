@@ -1,0 +1,9 @@
+Performance Testing
+The number of users a app can handle over a period of time
+Performance testing is a umbrella term for different kind of tests.
+
+Types
+Load Test - Same load over a period of time
+Stress Test - Push to breaking point
+Spike Trest -  Seddenly increase and decrese the load.
+
